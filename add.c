@@ -10,4 +10,8 @@ int main()
  
   printf(" Sum of the two integer values is %d", sum);
   return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 51f0c3d9effbadbc8bb68d1ff7830e257aa85dab
